@@ -1,5 +1,16 @@
 # Social Media Engagement Analysis
-Analysis of social media engagement data to identify performance trends across platforms, content types, views, and posting patterns.
+## Project Overview
+
+In this project, I analyzed 5,000 social media posts to explore what drives engagement and views across different platforms and content types.
+
+I looked at how performance changed by platform, content type, day of the week, and time of day. I also compared averages with medians and found that some high-performing posts were pulling the averages up, so I focused more on medians to understand what typical performance looked like.
+
+I then built a Power BI dashboard to bring the analysis together and highlight the main patterns I found.
+
+## Tools Used
+
+- **Excel** – Data exploration and analysis
+- **Power BI** – Dashboard creation and data visualization
 
 ## Dashboard Overview
 
