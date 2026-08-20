@@ -14,7 +14,7 @@ I then built a Power BI dashboard to bring the analysis together and highlight t
 
 ## Dashboard Overview
 
-
+![Social Media Analytics Dashboard](social-media-dashboard.png)
 
 ### Key Insights
 
