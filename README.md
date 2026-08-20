@@ -26,7 +26,7 @@ I then built a Power BI dashboard to bring the analysis together and highlight t
 
 ## Time Analysis
 
-![Time Analysis Dashboard](Screenshot%202026-08-19%20125855.png)
+![Time Analysis Dashboard](social-media-time-analysis.png)
 
 ### Key Insights
 
