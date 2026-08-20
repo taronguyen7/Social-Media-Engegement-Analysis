@@ -38,7 +38,7 @@ I then built a Power BI dashboard to bring the analysis together and highlight t
 
 ## Content Analysis
 
-![Content Analysis Dashboard](Screenshot%202026-08-19%20125906.png)
+![Content Analysis Dashboard](social-media-content-analysis.png)
 
 ### Key Insights
 
